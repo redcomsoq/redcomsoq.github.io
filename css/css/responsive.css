@@ -1,0 +1,299 @@
+@media only screen and (min-width: 1400px) and (max-width: 1980px) {
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px)  {
+
+}
+
+@media only screen and (min-width: 767px) and (max-width: 991px)  {
+
+    .mt50 {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .section-02 ul li img {
+        margin-bottom: 10px;
+    }
+
+    .section-03 ul {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .section-03 .heading {
+        margin: 0 0 20px;
+    }
+
+    header .order {
+        margin: 0;
+    }
+
+    .section-02 .heading {
+        margin: 0 0 20px;
+    }
+
+    .heading {
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: bold;
+    }
+
+    .section-02 ul li {
+        margin: 0 0 15px;
+    }
+
+    .section-01 .center-block {
+        margin-top: 30px;
+    }
+
+    header h1,
+    header h2 {
+        padding: 0;
+    }
+
+    header h1 {
+        font-size: 30px;
+        line-height: 48px;
+    }
+
+    header .header-intro {
+        position: inherit;
+        top: inherit;
+        left: inherit;
+        padding: 15px 0;
+    }
+
+    header img {
+        margin: 0;
+    }
+
+
+    .space {
+        padding: 30px 0;
+    }
+
+    .price .new-price {
+        position: relative;
+        font-size: 32px;
+        line-height: 1.5;
+        font-weight: bold;
+        padding: 0 15px;
+        border: 3px solid #8e0608;
+        border-radius: 100px;
+        color: #8e0608;
+        width: 170px;
+        height: 55px;
+        display: inline;
+    }
+
+    .section-02 img {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .section-03 .heading {
+        margin: 30px 0 15px 0;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    header .header-intro {
+        text-align: center;
+    }
+
+    .price {
+        margin: 20px 0 20px 0;
+    }
+
+    header h2 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    header {
+        background-image: none;
+    }
+
+    .section-03 ul.right-side,
+    .section-03 ul.left-side {
+        padding: 0;
+        text-align: left;
+    }
+
+    .section-03 ul.right-side li:before,
+    .section-03 ul.left-side li:before {
+        display: none;
+    }
+
+    .price .old-price {
+        font-size: 22px;
+    }
+
+    .section-03 ul li {
+        margin: 12px 0;
+        font-size: 16px;
+        font-weight: normal;
+        text-transform: unset;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .section-03 .section-03-img {
+        margin-bottom: 50px;
+        max-height: 300px;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px)  {
+
+    body {
+        font-size: 14px;
+    }
+
+    .mt50 {
+        margin-top: 0px;
+    }
+
+    .section-02 ul li img {
+        margin-bottom: 10px;
+    }
+
+    .section-03 ul {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .section-03 .heading {
+        margin: 0 0 20px;
+    }
+
+    header .order {
+        margin: 0;
+    }
+
+    .section-02 .heading {
+        margin: 0 0 20px;
+    }
+
+    .heading {
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: bold;
+    }
+
+    .section-03 ul li {
+        margin: 12px 0;
+        font-size: 16px;
+        font-weight: normal;
+        text-transform: unset;
+        line-height: 22px;
+    }
+
+    .section-03 ul li img {
+        margin: 0 5px 0 0;
+    }
+
+    .section-03 .section-03-img {
+        margin-bottom: 30px;
+    }
+
+    .section-02 ul li {
+        margin: 0 0 15px;
+    }
+
+    .section-01 .center-block {
+        margin-top: 30px;
+    }
+
+    header h1,
+    header h2 {
+        padding: 0;
+    }
+
+    header h1 {
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    header .header-intro {
+        position: inherit;
+        top: inherit;
+        left: inherit;
+        padding: 15px 0;
+    }
+
+    header img {
+        margin: 0;
+    }
+
+    .space {
+        padding: 30px 0;
+    }
+
+    .price .new-price {
+        position: relative;
+        font-size: 32px;
+        line-height: 1.5;
+        font-weight: bold;
+        padding: 0 15px;
+        border: 3px solid #8e0608;
+        border-radius: 100px;
+        color: #8e0608;
+        width: 170px;
+        height: 55px;
+        display: inline;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    header .header-intro {
+        text-align: center;
+        padding-bottom: 0;
+    }
+
+    .price {
+        margin: 20px 0 20px 0;
+        text-align: center;
+    }
+
+    header h2 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .section-04 ul {
+        padding: 0;
+    }
+
+    header {
+        background-image: none;
+    }
+
+    .section-03 ul.right-side,
+    .section-03 ul.left-side {
+        padding: 0;
+        text-align: left;
+    }
+
+    .section-03 ul.right-side li:before,
+    .section-03 ul.left-side li:before {
+        display: none;
+    }
+
+    .price .old-price {
+        font-size: 22px;
+    }
+    
+    .section-04 ul li {
+        margin: 0 0 20px 0;
+    }
+}
